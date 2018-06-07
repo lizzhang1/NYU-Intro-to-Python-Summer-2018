@@ -1,4 +1,5 @@
-Motivation for Being Part of the Class: Curiosity.
+# Xue
+_Motivation for Being Part of the Class_: Curiosity.
 
 Area of Interest: To be known. Completely new to programming.
 
